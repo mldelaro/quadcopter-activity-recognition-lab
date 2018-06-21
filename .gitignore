@@ -1,4 +1,7 @@
 tmp/
 .ipynb_checkpoints/
+data/
 mar-classification-exercise/data/
+mar-classification-exercise/.ipynb_checkpoints/
 mar-training-exercise/data/
+mar-training-exercise/.ipynb_checkpoints/
